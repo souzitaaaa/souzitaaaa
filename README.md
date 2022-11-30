@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Diogo Nogueira Souza</h1>
 <h3 align="center">Currently studying at 42Porto and ISLA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souzitaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="souzitaaaa" /> </p>
-
 - 🌱 I’m currently learning **C and Python**
 
 - 📫 How to reach me **diogo.nogueirasousa123@gmail.com**
