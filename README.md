@@ -1,6 +1,6 @@
 ![MasterHead](https://cdna.artstation.com/p/assets/images/images/026/128/252/original/lennart-butz-idea5anim.gif?1587962316)
 <h1 align="center">Hi 👋, I'm Diogo Nogueira Souza</h1>
-<h3 align="center">Currently studying at 42Porto and ISLA</h3>
+<h3 align="center">Currently studying at 42Porto and ISLAGaia</h3>
 
 - 🌱 I’m currently learning **C and Python**
 
@@ -19,5 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souzitaaaa&show_icons=true&locale=en&layout=compact" alt="souzitaaaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souzitaaaa&show_icons=true&locale=en" alt="souzitaaaa" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souzitaaaa&show_icons=true&theme=dark&locale=en" alt="souzitaaaa" /></p>
