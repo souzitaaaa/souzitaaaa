@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **diogo.nogueirasousa123@gmail.com**
 
-- ⚡ Fun fact **I'm addicted in Japan, so if I get the chance I will test my code with the name of an anime girl**
+- ⚡ Fun fact **If I get the chance I will test my code with the name of an anime girl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
